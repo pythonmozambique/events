@@ -1,4 +1,4 @@
-#Eventos da Comunidades
+# Eventos da Comunidades
 
 Este repositório centraliza a coordenação, documentação e monitorização de impacto das comunidades. O objectivo é garantir a transparência organizacional, a memória institucional e a recolha de dados estruturados.
 
